@@ -1,0 +1,168 @@
+
+
+
+.fa {
+    background-color: rgb(109, 109, 233);
+    margin: 5px 2px;
+
+padding-left: 100px;
+
+
+  }
+  
+  .fm:hover {
+      opacity: 0.7;
+margin: auto;
+      width: 20px;
+  height: 20px;
+  }
+
+.social{
+
+    margin: auto;
+}
+
+.nav{
+background-color: #316DC3    ;
+text-align: center;
+color: white;
+
+
+}
+   
+
+.fm{
+    
+    margin-left: 20px;
+    width: 20px;
+height: 20px;
+
+
+
+
+
+
+
+
+}
+
+.nave{
+
+    margin: auto;
+text-align: center;
+color: white;
+
+font-size: xx-large;
+
+
+}
+
+
+
+
+.million{
+
+display: inline;
+float: inline-middle;
+
+margin: auto;
+
+max-width: 5000px;
+min-width: 100px;
+
+}
+
+.bt{
+
+
+
+display: inline;
+float: inline-end;
+
+margin: auto;
+
+
+}
+
+
+.say{
+
+    width: 200px;
+}
+
+
+
+
+.intro{
+text-align: center;
+margin: auto;
+text-emphasis: bold;
+font-weight: 500;
+
+
+}
+
+.we{
+text-align: center;
+margin: auto;
+}
+
+
+.text{
+
+margin: auto;
+text-align: center;
+}
+
+.tt{
+
+    text-align: left;
+}
+
+.fb{
+
+text-align: center;
+width: 60px;
+height: 60px;
+
+}
+
+
+.fn{
+background-color: cornflowerblue;
+    text-size-adjust: 2em;
+}
+
+.a {
+    box-shadow: 0 12px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    background-color: white;
+margin: auto;
+
+  }
+  
+  .a:hover { 
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  
+.c{
+text-align: center;
+
+
+margin: 40px 20px;
+width: 70px;
+height: 50px;
+}
+
+.bt{
+
+    color: blue;
+}
+
+
+
+
+
+
+
